@@ -1,0 +1,9 @@
+html{
+  scroll-behavior: smooth;
+}
+
+body {
+  font-size: 12px;
+  all: unset;
+  font-family: Pretendard;
+}
